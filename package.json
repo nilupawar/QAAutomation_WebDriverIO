@@ -7,5 +7,14 @@
     "test": "wdio"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@wdio/sync": "^5.18.7",
+    "chromedriver": "^80.0.1",
+    "selenium-standalone": "^6.17.0",
+    "webdriverio": "^5.18.7"
+  },
+  "devDependencies": {
+    "wdio-chromedriver-service": "^5.0.2"
+  }
 }
