@@ -1,0 +1,11 @@
+{
+  "name": "qa.automation",
+  "version": "1.0.0",
+  "description": "This is very first test",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "author": "",
+  "license": "ISC"
+}
